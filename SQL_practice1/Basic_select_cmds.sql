@@ -16,10 +16,10 @@
 --        production.brands
 		
 
-
                                               --case 3---
 
 --SELECT * from production.brands for JSON AUTO      --using this we can convert table data into json    {xml for xml format}
+                                                      --clt+t to equal length text --clt+d for table size text
 
 
                                               --CASE 4--
@@ -37,3 +37,4 @@
                                                 --Case 6--
 
 --SELECT * into tbl_employee_backup from tbl_employee    -- it will create back up table {by using into keyword}
+
